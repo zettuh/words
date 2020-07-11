@@ -2,7 +2,7 @@ title: "The Spectre of OPSEC"
 scope: "applicable to any person/persons that intend to enter a public space to voice discontent, or for individuals planning direct actions, this document is purely for educational purposes and does not advocate for any specific action that may be deemed 'illegal' by local/state/federal laws" 
 purpose: "educate the masses"
 structure: "this document will be broken into numerous sections, and each section might very well have subsections" #jump around to whatever is relevant to you
-version: 0.1 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
+version: 0.2 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
 
 
 sections:
@@ -11,7 +11,16 @@ sections:
     - Logistics/Planning
     - Breadcrumbs
     - General Safety
+    
 
+############################################################################################################################
+  _________                          .__  __           _________       .__   __                        
+ /   _____/ ____   ____  __ _________|__|/  |_ ___.__. \_   ___ \ __ __|  |_/  |_ __ _________   ____  
+ \_____  \_/ __ \_/ ___\|  |  \_  __ \  \   __<   |  | /    \  \/|  |  \  |\   __\  |  \_  __ \_/ __ \ 
+ /        \  ___/\  \___|  |  /|  | \/  ||  |  \___  | \     \___|  |  /  |_|  | |  |  /|  | \/\  ___/ 
+/_______  /\___  >\___  >____/ |__|  |__||__|  / ____|  \______  /____/|____/__| |____/ |__|    \___  >
+        \/     \/     \/                       \/              \/                                   \/ 
+############################################################################################################################
 
 
 security_culture: 
@@ -55,8 +64,17 @@ security_culture:
     - "There's quote that is fairly well known which goes 'with friends like these, who needs COINTELPRO' it's been mentioned already but be absolutely certain you can trust the people you are working with, this can potentially serve as a barrier against agent provacteurs sowing mistrust and infighting amongst your group which is typically the tactic employed when your foes can't get acces to your secrets. If there is a rumor or report about someone in your ranks, go to the source for confirmation, don't accpet rumors as facts and approach the situation diplomatically "
 
 
+############################################################################################################################
+_________                                      /\    _________             .__       .__       _____             .___.__        
+\_   ___ \  ____   _____   _____   ______     / /   /   _____/ ____   ____ |__|____  |  |     /     \   ____   __| _/|__|____   
+/    \  \/ /  _ \ /     \ /     \ /  ___/    / /    \_____  \ /  _ \_/ ___\|  \__  \ |  |    /  \ /  \_/ __ \ / __ | |  \__  \  
+\     \___(  <_> )  Y Y  \  Y Y  \\___ \    / /     /        (  <_> )  \___|  |/ __ \|  |__ /    Y    \  ___// /_/ | |  |/ __ \_
+ \______  /\____/|__|_|  /__|_|  /____  >  / /     /_______  /\____/ \___  >__(____  /____/ \____|__  /\___  >____ | |__(____  /
+        \/             \/      \/     \/   \/              \/            \/        \/               \/     \/     \/         \/ 
+############################################################################################################################
 
-comms: (if you havent read the section on security culture at least review the first four sections as it will help understand why the following is important")
+
+comms / social media: (if you havent read the section on security culture at least review the first four sections as it will help understand why the following is important")
   the_government_is_spying_on_you:
     "It should be no secret that the government spies on its citizens. This is a known fact that they have largely failed at keeping out of the public's eye. Given that, it is important as individuals entitled to privacy that we take steps/measures to ensure our communications are kept private and away from prying eyes. Below there will be some steps one can take when attending a rally/protest/demonstration"
   
@@ -80,6 +98,15 @@ comms: (if you havent read the section on security culture at least review the f
     - "Do not give over your pin/passphrase to anyone asking for it"
     - "Do not share details of one's plans over an unecrypted medium, if it is not public info, avoid sharing it on any platform that is publicly accesible"
 
+    
+############################################################################################################################
+.____                 .__          __  .__                     /\  __________.__                       .__                
+|    |    ____   ____ |__| _______/  |_|__| ____   ______     / /  \______   \  | _____    ____   ____ |__| ____    ____  
+|    |   /  _ \ / ___\|  |/  ___/\   __\  |/ ___\ /  ___/    / /    |     ___/  | \__  \  /    \ /    \|  |/    \  / ___\ 
+|    |__(  <_> ) /_/  >  |\___ \  |  | |  \  \___ \___ \    / /     |    |   |  |__/ __ \|   |  \   |  \  |   |  \/ /_/  >
+|_______ \____/\___  /|__/____  > |__| |__|\___  >____  >  / /      |____|   |____(____  /___|  /___|  /__|___|  /\___  / 
+        \/    /_____/         \/               \/     \/   \/                          \/     \/     \/        \//_____/  
+############################################################################################################################
 
 
 logistics/planning: #prepping/arriving/leaving
@@ -122,7 +149,14 @@ logistics/planning: #prepping/arriving/leaving
     - "If you used public transportation/bike/skateboard/any combination of those, plan your routes ahead of time. This option also is worth considerong when ones considers the existence of automated systesm to identify and track license plates"
 
 
-
+############################################################################################################################
+__________                            .___                        ___.           
+\______   \_______   ____ _____     __| _/___________ __ __  _____\_ |__ ________
+ |    |  _/\_  __ \_/ __ \\__  \   / __ |/ ___\_  __ \  |  \/     \| __ \\___   /
+ |    |   \ |  | \/\  ___/ / __ \_/ /_/ \  \___|  | \/  |  /  Y Y  \ \_\ \/    / 
+ |______  / |__|    \___  >____  /\____ |\___  >__|  |____/|__|_|  /___  /_____ \
+        \/              \/     \/      \/    \/                  \/    \/      \/
+############################################################################################################################
 
 breadcrumbs: (things that you might leave behind can help your foes. lets avoid leaving a trail breadcrumbs for them to follow)
   digital_trails:
@@ -131,6 +165,16 @@ breadcrumbs: (things that you might leave behind can help your foes. lets avoid 
   physical_trails:
      - "Avoid leaving anything behind that can identify you, whether it be your DNA or otherwise. Anything you showed up with, bring it back with you. Throw trash away in dumpsters cans away from the site/your home."
      - "Try and avoid being caught on CCTV cameras. Or maybe if you feel this is something you are willing to risk, blocking/jamming camera feeds is handy"
+
+
+############################################################################################################################
+  ________                                  .__      _________       _____       __          
+ /  _____/  ____   ____   ________________  |  |    /   _____/____ _/ ____\_____/  |_ ___.__.
+/   \  ____/ __ \ /    \_/ __ \_  __ \__  \ |  |    \_____  \\__  \\   __\/ __ \   __<   |  |
+\    \_\  \  ___/|   |  \  ___/|  | \// __ \|  |__  /        \/ __ \|  | \  ___/|  |  \___  |
+ \______  /\___  >___|  /\___  >__|  (____  /____/ /_______  (____  /__|  \___  >__|  / ____|
+        \/     \/     \/     \/           \/               \/     \/          \/      \/     
+############################################################################################################################
 
 general_safety: use common sense. don't start shit with cops if it brings additional risk to yourself / others (unless literally everyone is down), help those that need it, and overall always consider your personal safety, you are of no good to anyone if you get seriously injured/hurt.
 
