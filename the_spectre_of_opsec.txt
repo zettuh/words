@@ -35,7 +35,11 @@ security_culture:
     The central principle of all security culture, the point that cannot be emphasized enough, is that people should never be privy to any sensitive information they do not need to know.
 
   what_does_this_mean?:
-      The more people who know something that can put individuals or projects at risk (this includes: private meeting locations, real identities of involved persons, or plans of action nonviolent or otherwise), the greater the chance of said knowledge getting into the wrong hands. Information such as this ought to be kept on a need-to-know basis. Obviously, in cases where one might want to encourage members of the public to join in to add strength in numbers (such as a public rally), some information would have to be shared, but what is crucial here is identifying what information is ok to share, and what information needs to be kept close to the chest. This can be done by assinging a security level to different kinds of information based on severity. It helps protect those involved by allowing one to maintin plausible deniability should an action or event be deemed punishable by law
+      The more people who know something that can put individuals or projects at risk (this includes: private meeting locations, real identities of involved persons, or plans of action nonviolent or otherwise), the greater the chance of said knowledge getting into the wrong hands. 
+Information such as this ought to be kept on a need-to-know basis. 
+Obviously, in cases where one might want to encourage members of the public to join in to add strength in numbers (such as a public rally), some information would have to be shared, but what is crucial here is identifying what information is ok to share, and what information needs to be kept close to the chest. 
+This can be done by assinging a security level to different kinds of information based on severity. 
+It helps protect those involved by allowing one to maintin plausible deniability should an action or event be deemed punishable by law
 
   what_do_I_need_to_do?: (Below you will find a list of things that one should NOT do, and will likely find to be common sense, think about them and practice them)
     - Do not ask other people for confidential information that you do not need.
