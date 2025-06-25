@@ -27,13 +27,14 @@ version: 0.8
   This is important as the goal is to minimize risk to yourself and others.
   
   Threat actors that we need to consider in this case include but are not limited to: 
-      - Members of law enforcement 
-      - white nationalist gangs
-      - Republicans. 
-    These people are not your friends (though they are often friends with each other!), and they do not care about you or your well-being.
+  - Members of law enforcement 
+  - white nationalist gangs
+  - Republicans. 
+  
+  These people are not your friends (though they are often friends with each other!), and they do not care about you or your well-being.
 
-    Local/State/Federal authorities have long had a vested interest in seeking out and silencing radicals. 
-    This means that radicals ought to be informed on how to avoid giving them anything that can be used to harm others.
+  Local/State/Federal authorities have long had a vested interest in seeking out and silencing radicals. 
+  This means that radicals ought to be informed on how to avoid giving them anything that can be used to harm others.
 
   **what_is_it?**:
 
