@@ -37,8 +37,8 @@ version: 0.8
   This means that radicals ought to be informed on how to avoid giving them anything that can be used to harm others.
 
   **what_is_it?**:
-
-    The central principle of all information security culture, is compartmentalization, aka need-to-know. 
+  
+  The central principle of all information security culture, is compartmentalization, aka need-to-know. 
     "Three people can keep a secret if two of them are dead."
 
   **what_does_this_mean?**:
