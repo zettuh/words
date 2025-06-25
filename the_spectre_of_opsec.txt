@@ -2,7 +2,7 @@ title: The Spectre of OPSEC
 scope: applicable to any person/persons that intend to enter a public space to voice discontent, or for individuals planning direct actions, this document is purely for educational purposes and does not advocate for any specific action that may be deemed 'illegal' by local/state/federal laws 
 purpose: educate the masses
 structure: this document will be broken into numerous sections, and each section might very well have subsections #jump around to whatever is relevant to you
-version: 0.4 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
+version: 0.6 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
 
 
 sections:
