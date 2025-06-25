@@ -44,24 +44,25 @@ version: 0.8
 
   **what_does_this_mean?**:
   
-    The more people who know something, the greater the chance it falls into the wrong hands. "Loose lips sink ships."
-    All Information must be kept on a need-to-know basis.
-    In cases where the public is encouraged to join in to add strength in numbers (such as a public rally), some information would have to be shared.
+  The more people who know something, the greater the chance it falls into the wrong hands. 
+     "Loose lips sink ships."
+  All Information must be kept on a need-to-know basis.
+  In cases where the public is encouraged to join in to add strength in numbers (such as a public rally), some information would have to be shared.
     
-    What is crucial here is identifying information is OK to share, and information that must remain secret.
-    The goal is to help protect those involved by allowing one to maintain plausible deniability should an action or event be deemed punishable by law.
-    *Examples include, but aren't limited to*:
-      - personally identifiable information (PII).  e.g.:
-        - SSN
-        - physical traits
-        - registered call signs
-        - Real names
-        - Social graph (who's relates to who)
-      - physical location addresses that are frequented by your comrades:
-        - domicile
-        - places of worship
-        - favorite restaurants
-        - non-public meeting locations
+  What is crucial here is identifying information is OK to share, and information that must remain secret.
+  The goal is to help protect those involved by allowing one to maintain plausible deniability should an action or event be deemed punishable by law.
+  *Examples include, but aren't limited to*:
+    - personally identifiable information (PII).  e.g.:
+      - SSN
+      - physical traits
+      - registered call signs
+      - Real names
+      - Social graph (who's relates to who)
+    - physical location addresses that are frequented by your comrades:
+      - domicile
+      - places of worship
+      - favorite restaurants
+      - non-public meeting locations
   
   **what_to_do?**:
 
