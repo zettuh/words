@@ -39,7 +39,8 @@ version: 0.8
   **what_is_it?**:
   
   The central principle of all information security culture, is compartmentalization, aka need-to-know. 
-    "Three people can keep a secret if two of them are dead."
+  
+     "Three people can keep a secret if two of them are dead."
 
   **what_does_this_mean?**:
   
