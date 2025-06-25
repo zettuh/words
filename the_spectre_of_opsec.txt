@@ -2,7 +2,7 @@ title: The Spectre of OPSEC
 scope: applicable to any person/persons that intend to enter a public space to voice discontent, or for individuals planning direct actions, this document is purely for educational purposes and does not advocate for any specific action that may be deemed 'illegal' by local/state/federal laws 
 purpose: educate the masses
 structure: this document will be broken into numerous sections, and each section might very well have subsections #jump around to whatever is relevant to you
-version: 0.7 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
+version: 0.8 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
 
 
 sections:
@@ -211,9 +211,9 @@ logistics/planning: #prepping/arriving/leaving
     - Water.
       Hydration is super important if you are participating in a march
       (also useful for flushing eyes if cops start dispensing irritants)
-      Do not put anything other than water in your eyes.
-      Do not put anything other than water in your eyes.
-      Do not put anything other than water in your eyes.
+      Do not put anything other than water / eyewash in your eyes.
+      Do not put anything other than water / eyewash in your eyes.
+      Do not put anything other than water / eyewash in your eyes.
 
     - Depending on the action/threat assessment, a phone or burner phone with spare power (battery packs are typically cheap)
     - A multi-tool.
@@ -301,7 +301,6 @@ logistics/planning: #prepping/arriving/leaving
      - Avoid leaving anything behind that can identify you, whether it be your DNA or otherwise.
        Anything you showed up with, bring it back with you.
        Throw trash away in dumpsters cans away from the site/your home.
-
      - Try and avoid being caught on CCTV cameras. Or maybe if you feel this is something you are willing to risk, blocking/jamming camera feeds is handy
 
 
