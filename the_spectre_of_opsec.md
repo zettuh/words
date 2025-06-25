@@ -6,7 +6,7 @@
 
 **structure**: this document will be broken into numerous sections, and each section might very well have subsections #jump around to whatever is relevant to you
 
-**version**: 0.8
+**version**: 1.0
 *(this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.)*
 
 
@@ -72,10 +72,10 @@
   
   ## what_to_do?:
 
-    - Only ask for information you need to accomplish an objective.
-     - If you've done something that your state or the feds deem illegal, do not boast about it, keep it to yourself.
-       This include things others have done. It would also be wise to not mention things that are going to happen or might happen if they are considered to be 'illegal'
-    - Stay on top of what you are sharing and to whom, though be careful not to leave a written record.
+- Only ask for information you need to accomplish an objective.
+- If you've done something that your state or the feds deem illegal, do not boast about it, keep it to yourself.
+    - This include things others have done. It would also be wise to not mention things that are going to happen or might happen if they are considered to be 'illegal'
+- Stay on top of what you are sharing and to whom, though be careful not to leave a written record.
 
   ## what_NOT_to_do?:
   Identify yourself in advance:
@@ -95,25 +95,24 @@
   Keep a journal (learn from Dread Pirate Roberts)
 
    ## some_questions_to_ask_yourself_before_sharing_info:
-     - Is this information crucial to my organizing with others?
-     - What risks can arise if I divulge this information?
-     - Am I potentially putting someone in harm's way if I share this info?
-     - Does my sharing this information advance my cause in anyway, and if so, is it worth the risk?
+- Is this information crucial to my organizing with others?
+- What risks can arise if I divulge this information?
+- Am I potentially putting someone in harm's way if I share this info?
+- Does my sharing this information advance my cause in anyway, and if so, is it worth the risk?
 
 
   ## you_can_say_no:
-    Don't answer questions you don't legally have to. 
-    
+Don't answer questions you don't legally have to. 
     Cops, friends, co-workers, doesn't matter. 
     
-    If you are not comfortable with sharing information for safety reasons it is OK to keep it private. Likewise, expect others to do the same.  
+If you are not comfortable with sharing information for safety reasons it is OK to keep it private. Likewise, expect others to do the same.  
     
-    Feel free to call-in and correct any comrade who appears to be oversharing.
+Feel free to call-in and correct any comrade who appears to be oversharing.
 
   ## don't_snitch:
   If you are caught by law enforcement, say nothing to them beyond what's legally required:
 
-    - "Am I Being Detained?"
+- "Am I Being Detained?"
     - if yes: 
       - "I'm invoking my right to counsel and my right to remain silent," and then immediately stop talking, no matter what any officer says to you.
     - if no:
@@ -161,7 +160,7 @@ Depending on the action/whether you are caught, **investigators will lie about h
 - They hold all the cards in this situation. 
 - **DON'T TALK TO COPS.**
 
-## trust:
+## on_trust:
 There's quote that is fairly well known which goes 'with friends like these, who needs COINTELPRO'
 It's been mentioned already but be _**absolutely certain**_ you can trust the people you are working with.
 This can potentially serve as a barrier against agent provacteurs sowing mistrust and infighting amongst your group.
