@@ -12,127 +12,137 @@ sections:
     - Breadcrumbs
     - General Safety
 
-
-############################################################################################################################
-  _________                          .__  __           _________       .__   __
- /   _____/ ____   ____  __ _________|__|/  |_ ___.__. \_   ___ \ __ __|  |_/  |_ __ _________   ____
- \_____  \_/ __ \_/ ___\|  |  \_  __ \  \   __<   |  | /    \  \/|  |  \  |\   __\  |  \_  __ \_/ __ \
- /        \  ___/\  \___|  |  /|  | \/  ||  |  \___  | \     \___|  |  /  |_|  | |  |  /|  | \/\  ___/
-/_______  /\___  >\___  >____/ |__|  |__||__|  / ____|  \______  /____/|____/__| |____/ |__|    \___  >
-        \/     \/     \/                       \/              \/                                   \/
-############################################################################################################################
-
-
 security_culture:
   Intro:
     If you are reading this, there is a chance that you've decided that it is time to stop being idle and get out onto the streets and tell the government how you really feel.
-    Fantastic! That said, it is crucial that we take steps to keep our idenities safe when going out to voice discontent as there are actors that would seek to discover our identities and keep tabs on who we are.
-    So, what we need to establish is a good Secuirty Culture, this is important as the goal is to minimize risk to yourself annd others.
-    Threat actors in this case include but are not limited to members of law enforcement and white nationalist gangs. These people are not your friends (though they are often friends with each other!), and they do not care about you or your well-being.
-    Local/State/Federal authorities have long had a vested interest in seeking out and silencing radicals so radicals ought to be informed on how to avoid giving them anything that can be used to harm others
+    Fantastic! That said, it is crucial that we take steps to keep our identities hidden when going out to voice discontent, as there are actors that would seek to discover our identities and keep tabs on who we are.
+    So, what we need to establish is a good Security Culture.  This is important as the goal is to minimize risk to yourself and others.
+    Threat actors in this case include but are not limited to: members of law enforcement, white nationalist gangs, Republicans. These people are not your friends (though they are often friends with each other!), and they do not care about you or your well-being.
+    Local/State/Federal authorities have long had a vested interest in seeking out and silencing radicals so radicals ought to be informed on how to avoid giving them anything that can be used to harm others.
 
   what_is_it?:
-    The central principle of all security culture, the point that cannot be emphasized enough, is that people should never be privy to any sensitive information they do not need to know.
+    The central principle of all information security culture, is compartmentalization, aka need-to-know. "Three people can keep a secret if two of them are dead."
 
   what_does_this_mean?:
-      The more people who know something that can put individuals or projects at risk (this includes: private meeting locations, real identities of involved persons, or plans of action nonviolent or otherwise), the greater the chance of said knowledge getting into the wrong hands. 
-Information such as this ought to be kept on a need-to-know basis. 
-Obviously, in cases where one might want to encourage members of the public to join in to add strength in numbers (such as a public rally), some information would have to be shared, but what is crucial here is identifying what information is ok to share, and what information needs to be kept close to the chest. 
-This can be done by assinging a security level to different kinds of information based on severity. 
-It helps protect those involved by allowing one to maintin plausible deniability should an action or event be deemed punishable by law
+      The more people who know something, the greater the chance it falls into the wrong hands. "Loose lips sink ships."
+All Information must be kept on a need-to-know basis.
+In cases where the public is encouraged to join in to add strength in numbers (such as a public rally), some information would have to be shared.  What is crucial here is identifying information is OK to share, and information that must remain secret.
+It helps protect those involved by allowing one to maintain plausible deniability should an action or event be deemed punishable by law.
+      Examples include, but aren't limited to:
+        - personally identifiable information (PII).  e.g.:
+          - SSN
+          - physical traits
+          - registered call signs
+          - Real names
+          - Social graph (who's relates to who)
+        - physical location addresses that are frequented by your comrades:
+          - domicile
+          - places of worship
+          - favorite restaurants
+          - non-public meeting locations
+  what_to_do?:
+    - Only ask for information you need to accomplish an objective.
+     - If you've done something that your state or the feds deem illegal, do not boast about it, keep it to yourself.
+       This include things others have done. It would also be wise to not mention things that are going to happen or might happen if they are considered to be 'illegal'
+    - Stay on top of what you are sharing and to whom, though be careful not to leave a written record.
 
-  what_do_I_need_to_do?: (Below you will find a list of things that one should NOT do, and will likely find to be common sense, think about them and practice them)
-    - Do not ask other people for confidential information that you do not need.
-    - If you've done something that your state or the feds deem illegal, do not boast about it, keep it to yourself.
-      This include things others have done. It would also be wise to not mention things that are going to happen or might happen if they are considered to be 'illegal'
-    - Stay ontop of what you are sharing and to whom.
-    - Remember if nobody talks, everyone walks. Don't be a snitch
+  what_NOT_to_do?:
+    - Identify yourself in advance
+      - Don't log in to any web site that still works without a user account
+         - Google Maps
+         - Duck Duck Go search
+         - news websites
+    - Snitch.
+      - Remember: No one talks, everyone walks.
+    - Talk about any action taken to anyone, in any means (including meat space).
+      - Those who weren't there need plausible deniability.
+      - Those who were there don't need to rehash it.
+    - Keep a journal (learn from Dread Pirate Roberts)
+   some_questions_to_ask_yourself_before_sharing_info:
+     - Is this information crucial to my organizing with others?
+     - What risks can arise if I divulge this information?
+     - Am I potentially putting someone in harm's way if I share this info?
+     - Does my sharing this information advance my cause in anyway, and if so, is it worth the risk?
 
-  some_questions_to_ask_yourself_before_sharing_info:
-    - Is this information crucial to my organizing with others?
-    - What risks can arise if I divulge this information?
-    - Am I potentially putting someone in harm's way if I share this info?
-    - Does my sharing this information advance my cause in anyway, if so, is it worth the risk?
 
   you_can_say_no:
-    Don't answer questions you don't want to. Cops, friends, co-workers, doesn't matter. If you are not comfortable with sharing information for saftey reasons it is ok to keep it private. Likewise, expect others to do the same.
+    Don't answer questions you don't legally have to. Cops, friends, co-workers, doesn't matter. If you are not comfortable with sharing information for safety reasons it is OK to keep it private. Likewise, expect others to do the same.  Feel free to call-in and correct any comrade who appears to be oversharing.
 
-  don't_fucking_snitch:
-    If you are caught by law enforcement, say nothing to them that can put you or your peers at risk/bring them greater harm.
-    Never, ever, give up information on the people that struggle with you.
+  don't_snitch:
+    If you are caught by law enforcement, say nothing to them beyond what's legally required:
+      - "Am I Being Detained?"
+      - if yes: "I'm invoking my right to counsel and my right to remain silent," and then immediately stop talking, no matter what any officer says to you.
 
   on_direct_action: (If you are a person or allied with persons that are willing to go a step further beyond just waving a placard and shouting into a megaphone, there are some things to consider)
     - Build a threat matrix/threat model.
+      You need to know what needs defending and from whom.  That will help you organize your thinking on how to respond to various scenarios.
       The key piece of knowledge necessary for building defenses for your organization capable of withstanding or surviving external threats is an understanding of the capabilities of your adversaries.
       Consider what your adversaries are capabale of when outlining your action and try to mitigate the risks they pose during the planning phase (some research may be required!)
 
     - Avoid building patterns.
       This is applicable to where/when you and your comrades meet, targets of said actions, methods you employ, etc.
-      Keep it fresh and on a more spontaneous schedule, this includes the frequency at which you meet/are seen together in public
+      Keep it fresh and on a more spontaneous schedule, this includes the frequency at which you meet/are seen together in public.
 
     - Maintain a low profile.
       Cover your face, know the area where the action is taking place, plan your route/escape routes (if applicable), maintain good comms habits, watch each others backs.
       This also means to be very careful when inviting participants to join you in the planned action: anyone that you invite that doesnt participate is a potential security risk.
-      Only bring in people you can vouch for and trust. (THIS IS EXTREMELY IMPORTANT # See the sections on Comms, Logistics, and Breadcrumbs)
+      Only bring in people you can *directly* vouch for and trust. (THIS IS EXTREMELY IMPORTANT # See the sections on Comms, Logistics, and Breadcrumbs)
 
     - Don't be hasty and consider the safety of others, always.
       If your action brings more risk/danger to others than reward, it might be worth reconsidering
 
-    - Depending on the action/whether you are caught, investigators will probably lie about how much they know when interrogating you.
+    - Depending on the action/whether you are caught, investigators will lie about how much they know when interrogating you, and are legally permitted to do so.
       This bluff often leads people to divulge crucial information to the authorities.
-      Try and get a feel for whether or not your cover is actually blown; there's a chance it has not and they just want you to do the work for them
+      SAY NOTHING beyond invoking your right to silence and an attorney.
+      You can lie to state and local cops, legally. You _cannot_ lie to federal law enforcement, that's a federal crime.  DON'T TALK TO COPS.
+      The cops are better trained at interrogating than you are at being interrogated.  They hold all the cards in this situation. DON'T TALK TO COPS.
 
     - There's quote that is fairly well known which goes 'with friends like these, who needs COINTELPRO'
       It's been mentioned already but be absolutely certain you can trust the people you are working with.
       This can potentially serve as a barrier against agent provacteurs sowing mistrust and infighting amongst your group.
       This is typically the tactic employed when your foes can't get acces to your secrets.
       If there is a rumor or report about someone in your ranks, go to the source for confirmation, and hash it out.
-      Don't accpet rumors as facts and approach the situation diplomatically
-
-
-############################################################################################################################
-_________                                      /\    _________             .__       .__       _____             .___.__
-\_   ___ \  ____   _____   _____   ______     / /   /   _____/ ____   ____ |__|____  |  |     /     \   ____   __| _/|__|____
-/    \  \/ /  _ \ /     \ /     \ /  ___/    / /    \_____  \ /  _ \_/ ___\|  \__  \ |  |    /  \ /  \_/ __ \ / __ | |  \__  \
-\     \___(  <_> )  Y Y  \  Y Y  \\___ \    / /     /        (  <_> )  \___|  |/ __ \|  |__ /    Y    \  ___// /_/ | |  |/ __ \_
- \______  /\____/|__|_|  /__|_|  /____  >  / /     /_______  /\____/ \___  >__(____  /____/ \____|__  /\___  >____ | |__(____  /
-        \/             \/      \/     \/   \/              \/            \/        \/               \/     \/     \/         \/
-############################################################################################################################
-
+      Don't accept rumors as facts and approach the situation diplomatically.
+      Pay special attention to reports of misogyny, racism and sexual assault (verbal or otherwise).  A pattern of that behavior
+      can indicate an insider trying to sow mistrust.  However, even if they aren't a plant, that kind of behavior will have a
+      corrosive effect whose ends will be the same. Root out those kinds of folks once there's a pattern of that behavior.
+      "Once is an accident, twice is coincidence, three times is enemy action."
 
 comms / social media:
   **the_government_is_spying_on_you**:
      - It should be no secret that the government spies on its citizens.
+     - Often indirectly, as they request information about you from the private companies who facilitate our online world.
      - This is a known fact that they have largely failed at keeping out of the public's eye.
      - Given that, it is important as individuals entitled to privacy that we take steps/measures to ensure our communications are kept private and away from prying eyes.
      - Below there will be some steps one can take when attending a rally/protest/demonstration
 
   **should_I_bring_my_phone**:
-     - In an ideal world, this would be relatively easy question to answer, but since we live in a late-capitalist hell-hole phones have become integral to every day life.
-     - so, for starters ask the following 'Am I taking part in something that is considered to be a crime?'
-     - If you answered yes, then leave your phone at home or get burner phones for you and your comrades.
-     - If you answered no, and are just attending a protest/rally/demonstration in solidarity then a phone could be very useful.
-     - That said, it is still important to minimize risk. see below on somethings you can do
+     - *NO.*  If you need to communicate with your comrades outside line of sight, there are options that leave fewer traces.
+       - your phone will register that you were somewhere near an action. That fact alone has put people away.
+       - your social graph will be included in geo-fence warrants.
+         - your phone being there will cause others law enforcement can show are connected to you to be targeted for further surveillance.
+     - If you absolutely cannot leave your phone at home (family care needs, work related interruptions) and for some reason still want to take action,
+       there are steps you can take, outlined below.  But know that you are putting your comrades at greater risk!
 
-  **do's: (things you ought to do)**
-    - Enable full disk encryption on your phone.
-      Your phone is a computer and the two most popular operating systems for your pocket computers are iOS and Android.
-      Both of these operating systems support full disk encryption.
-      Enable it.
-
-    - **for android see this guide:**
+  **things_to_do:**
+    - Enable full disk encryption on your phone if it didn't come with it on by default. See the guides below to double check and enable if necessary:
+      
+    - **Android:**
       https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/
 
-    - **For iOS see this guide:**
+    - **iPhone/iOS:**
       https://ssd.eff.org/en/module/how-encrypt-your-iphone
 
     - Disable bio-metric security prior to your attendance.
       Yes, fingerprints and face unlock are convenient, but, law enforcement agents have been known to force people to unlock their phones when using this method.
+      - Fingerprints, like your blood alcohol level, eye color, retinal pattern, etc., are all treated as facts about you, not compelled testimony.
+        - The Supreme Court has upheld that these actions don't violate your 4th or 5th amendment rights.
+      - Cops can hold your phone up to your face or force your finger into the screen, this is legal.
       Pin/Passphrase is the way to go
 
     - Keep your phone on airplane mode/remove the sim card.
       Unless you absolutely NEED to be connected to a your carrier, avoid doing so.
-      Location services on your phone record your whereabouts and the companies that record this data have been known to hand this data over.
+      Location services on your phone record your whereabouts and the companies that record this data have been shown to hand this data over to anyone with a credit card, let alone law enforcement.
 
     - Remove any Google/Facebook apps
       (depending on your OS you may just be able to disable the access to location/microphone in the settings such as in iOS https://www.howtogeek.com/211623/how-to-manage-app-permissions-on-your-iphone-or-ipad/
@@ -140,40 +150,48 @@ comms / social media:
     - Assuming you have your phone on your person, document with photo/video if you see law enforcement being violent.
     - **If you need to contact someone while out: USE. ENCRYPTED. COMMS.**
         - Do not use SMS or a Standard phone call.
-        - There is a number of apps that provide solid crypto functionality.
-        - Some that are functional and easy to setup include Signal(https://signal.org/en/) / Keybase (https://keybase.io)
-        - If you are on iOS, iMessage and FaceTime are end-to-end encrypted.
-        - That said, be advised that if you are messaging someone who is not using iOS, it defaults to plain old SMS which is not a very good thing to be using if privacy is the goal.
-        - Remember, you want to keep yourself and others safe whilst minimizing risk
+        - There are a number of apps that provide solid end-to-end encrypted communications:
+          - [Signal](https://signal.org/en/) (preferred, voice, image, and text)
+          - [Keybase](https://keybase.io) (better than whatsapp or facebook messenger or SMS)
+        - If you are on iOS, iMessage and FaceTime are end-to-end encrypted ONLY with other Apple users.
+          - Stick to Signal regardless of platform, this way there's no green bubble surprise.
+        - Remember, you want to keep yourself and others safe while minimizing risk
 
-  **dont's: (things you ought NOT to do)**
-    - Avoid taking photos of individuals, or, if you are going to, ask them for permission.
-      Do not take photos of people there with you without their consent
+    - Set your lock screen wallpaper to a solid color or a manufacturer supplied default image.
+      - A cop could wake your phone and use image search to figure out who the photo of you or your loved one is on your lock screen.
 
-    - Do not make vanity posts.
-      The goal of one's participation is not for clout or likes, or upvotes, retweets, etc.
-      If this is your goal, your head is in the wrong place, get yer head right
+    - Set your ring tone / notification tone to a manufacturer supplied default.
+      - no one needs to know that you like a certain musician or certain video game.
 
-    - If you cannot be convinced to not snap a pic and post it, do not tag your location or others.
+    - Disable location tagging on your phone's camera
 
-    - Do not take photos of others participating without their consent
+    - learn how to enable lock-down mode on your phone (fixme: put links here)
 
-    - Do not give over your pin/passphrase to anyone asking for it
+    - turn off *all* notifications on your lock screen.
 
-    - Do not share details of one's plans over an unecrypted medium, if it is not public info, avoid sharing it on any platform that is publicly accesible
+    - disable any convenience features related to plugging your phone into your computer.
+      - do not auto-connect to storage
+      - disable USB debugging
 
+  **things_NOT_to_do:**
+    - Do not take photos of others participating on your side without their consent
+      - law enforcement and opposing forces are fair game.
 
-############################################################################################################################
-.____                 .__          __  .__                     /\  __________.__                       .__
-|    |    ____   ____ |__| _______/  |_|__| ____   ______     / /  \______   \  | _____    ____   ____ |__| ____    ____
-|    |   /  _ \ / ___\|  |/  ___/\   __\  |/ ___\ /  ___/    / /    |     ___/  | \__  \  /    \ /    \|  |/    \  / ___\
-|    |__(  <_> ) /_/  >  |\___ \  |  | |  \  \___ \___ \    / /     |    |   |  |__/ __ \|   |  \   |  \  |   |  \/ /_/  >
-|_______ \____/\___  /|__/____  > |__| |__|\___  >____  >  / /      |____|   |____(____  /___|  /___|  /__|___|  /\___  /
-        \/    /_____/         \/               \/     \/   \/                          \/     \/     \/        \//_____/
-############################################################################################################################
+    - Take photos of anyone on your side without consent.
+
+    - make vanity posts.
+       The goal of one's participation is not for clout or likes, or upvotes, retweets, etc.
+       If this is your goal, your head is in the wrong place, and you risk the safety of others. STAY HOME.
+    - If you cannot be convinced to not snap a pic and post it, STAY HOME.
+    - Do not give over your phone, or it's pin/passphrase to anyone asking for it, for any reason.
+    - Do not share details of one's plans unless it's with other organizers and over encrypted messaging.
 
 
 logistics/planning: #prepping/arriving/leaving
+  **bring_the_essentials**:
+    When planning day of, think about what you need and bring only those things.
+    Below there will be lists, go over them as a general guideline, modify for your own personal needs.
+
   **how_do_I_look?**:
     A protest/rally/demonstration is not fashion show.
     Ideally you do not want to dress in a way that draws attention to yourself.
@@ -181,16 +199,12 @@ logistics/planning: #prepping/arriving/leaving
     If you want to be extra cautious, a spare shirt and some accessories can be worth keeping with you when you make your exit in order to not be immediately identifiable as a protestor.
     (you can even thrift a pair of shoes from a thrift store if you are extra paranoid, just make sure it is something you can run in)
 
-  **bring_the_essentials**:
-    When planning day of, think about what you need and bring only those things.
-    Below there will be lists, go over them as a general guideline
-
   **things_to_bring**: (one might want to consider keeping some of these items with them)
     - Face masks and/or Sunglasses, Balaclavas (if it suits you).
       Wear clothing that covers up identifiable markings/tattoos/logos
 
     - First Aid supplies.
-      Disenfectant, gauze, bandages of various sizes, cotton swabs, gloves, extra masks, hand sanitizer
+      Disinfectant, gauze, bandages of various sizes, cotton swabs, nitrile gloves, extra masks, hand sanitizer
 
     - Water.
       Hydration is super important if you are participating in a march
@@ -202,7 +216,7 @@ logistics/planning: #prepping/arriving/leaving
     - Depending on the action/threat assessment, a phone or burner phone with spare power (battery packs are typically cheap)
     - A multi-tool.
       Might seem silly, but it can come in handy in a pinch.
-      Obviously lookup your local laws with regards to multi-tools/things that have blades
+      Obviously lookup your local laws with regards to multi-tools/things that have blades.
 
     - Depending on the action, signs and placards might be worth bringing with you, though, it is not uncommon to find some for you to take when attending a rally/protest/demonstration
 
@@ -213,29 +227,30 @@ logistics/planning: #prepping/arriving/leaving
 
     - Some actions might require specific things, determine what these are during planning and bring with them you, cache them near the site.
 
-    - Consider using an Alias/Handle while at the action.
+    - Use an Alias/Handle while at the action.
       Prep one in advance and stick to it.
-      Your real name is something that can expose you to risk, so, avoid exposing it to others
+      Change it for every action.  Those who already know you won't care, and those who don't aren't in need of any persistent identifier.
+      Your real name is something that can expose you to risk, so, avoid exposing it to others.  Even just your first name.
 
-  **things_to_leave_at_home**: (one might want to consider keeping some of these items at home)
++  **things_to_leave_at_home**:
     - Illegal substances.
       Pretty self explanatory, if you can get arrested for having it on your person, leave it at home.
+      Opened containers of liquor fall into this category.
 
-    - Bad attitude, leave it at home.
+    - Bad attitude
       Show up with a focused and get ready to make yourself heard.
 
-    - Yourself.
-      Seems a bit odd, but, if you are not 100% onboard, don't show up.
-      This is pretty much common sense, but, I figured I would put this here.
+    - Yourself, if you are not 100% on-board and committed.
       Don't allow yourself to be coerced into doing something you do not want to do.
       Will you get judged? Maybe. Who knows? All I know is that is better for you/others if you avoid showing up to something you don't want to be a part of.
+      It's better for you and others if you avoid showing up to something you don't want to be a part of.
 
     - Depending on the action, young children.
       It can be very cool and empowering to allow your kids to participate in a rally/protest/action, but consider the risk to them if things get violent.
-      Use your best judgement and make a decision based on the information you have available. (this also goes for pets!)
+      Use your best judgment and make a decision based on the information you have available. (this also goes for pets!)
 
     - Jewelry/Expensive items.
-      Just don't bring 'em. They can damaged or confiscated.
+      Just don't bring 'em. They can damaged or confiscated, and you may not get them back for months, if at all.
 
     - Laptops/Tablets/Books.
       You really shouldn't need these things, so, yah know, leave 'em.
@@ -244,7 +259,8 @@ logistics/planning: #prepping/arriving/leaving
 
   **additional_planning tips**: (things worth doing outside of the above)
     - If attending a protest/rally/demonstration, write the phone number of someone you trust on your person in permenant ink, like a sharpie. Your forearm is a great place to do this, as it will be minimally impacted by sweat/handling things throughout the day.
-      Ensure that this person is willing to be called should you be detained
+      Ensure that this person is willing to be called should you be detained.
+      Commit it to memory if you can, police have been known to wash arms if they see a number written on them.
 
     - If attending a protest/rally/demonstration, let someone know who is not attending know where you will be and set a check in time.
       Also, give them an emergency contact number that they can call should you fail to check-in.
@@ -270,15 +286,6 @@ logistics/planning: #prepping/arriving/leaving
       This option also is worth considerong when ones considers the now-widespread existence of automated systems to identify and track license plates
 
 
-############################################################################################################################
-__________                            .___                        ___.
-\______   \_______   ____ _____     __| _/___________ __ __  _____\_ |__ ________
- |    |  _/\_  __ \_/ __ \\__  \   / __ |/ ___\_  __ \  |  \/     \| __ \\___   /
- |    |   \ |  | \/\  ___/ / __ \_/ /_/ \  \___|  | \/  |  /  Y Y  \ \_\ \/    /
- |______  / |__|    \___  >____  /\____ |\___  >__|  |____/|__|_|  /___  /_____ \
-        \/              \/     \/      \/    \/                  \/    \/      \/
-############################################################################################################################
-
 **breadcrumbs: (things that you might leave behind can help your foes. lets avoid leaving a trail breadcrumbs for them to follow)**
   **digital_trails**:
     - These are things that your technology leaves behind:
@@ -295,15 +302,6 @@ __________                            .___                        ___.
 
      - Try and avoid being caught on CCTV cameras. Or maybe if you feel this is something you are willing to risk, blocking/jamming camera feeds is handy
 
-
-############################################################################################################################
-  ________                                  .__      _________       _____       __
- /  _____/  ____   ____   ________________  |  |    /   _____/____ _/ ____\_____/  |_ ___.__.
-/   \  ____/ __ \ /    \_/ __ \_  __ \__  \ |  |    \_____  \\__  \\   __\/ __ \   __<   |  |
-\    \_\  \  ___/|   |  \  ___/|  | \// __ \|  |__  /        \/ __ \|  | \  ___/|  |  \___  |
- \______  /\___  >___|  /\___  >__|  (____  /____/ /_______  (____  /__|  \___  >__|  / ____|
-        \/     \/     \/     \/           \/               \/     \/          \/      \/
-############################################################################################################################
 
 **general_safety**:
   - use common sense.
