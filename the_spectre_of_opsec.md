@@ -32,18 +32,16 @@
   - white nationalist gangs
   - Republicans. 
   
-  These people are not your friends (though they are often friends with each other!), and they do not care about you or your well-being.
-
-  Local/State/Federal authorities have long had a vested interest in seeking out and silencing radicals. 
+  These people are not your friends (though they are often friends with each other!), and they do not care about you or your well-being. Local/State/Federal authorities have long had a vested interest in seeking out and silencing radicals. 
   This means that radicals ought to be informed on how to avoid giving them anything that can be used to harm others.
 
-  ## what_is_it?:
+### what_is_it?:
   
   The central principle of all information security culture, is compartmentalization, aka need-to-know. 
   
      "Three people can keep a secret if two of them are dead."
 
-  ## what_does_this_mean?:
+### what_does_this_mean?:
   
   The more people who know something, the greater the chance it falls into the wrong hands. 
      
@@ -70,38 +68,38 @@
     - favorite restaurants
     - non-public meeting locations
   
-  ## what_to_do?:
+### what_to_do?:
 
 - Only ask for information you need to accomplish an objective.
 - If you've done something that your state or the feds deem illegal, do not boast about it, keep it to yourself.
     - This include things others have done. It would also be wise to not mention things that are going to happen or might happen if they are considered to be 'illegal'
 - Stay on top of what you are sharing and to whom, though be careful not to leave a written record.
 
-  ## what_NOT_to_do?:
-  Identify yourself in advance:
+### what_NOT_to_do?:
+- Identify yourself in advance:
 
-    - Don't log in to any web site that still works without a user account
-         - Google Maps
-         - Duck Duck Go search
-         - news websites
+  - Don't log in to any web site that still works without a user account
+    - Google Maps
+    - Duck Duck Go search
+    - news websites
   
-  Snitch.
-    - Remember: No one talks, everyone walks.
+- Snitch:
+  - Remember: No one talks, everyone walks.
   
-  Talk about any action taken to anyone, in any means (including meat space).
+- Talk about any action taken to anyone, in any means (including meat space):
   - Those who weren't there need plausible deniability.
   - Those who were there don't need to rehash it.
   
-  Keep a journal (learn from Dread Pirate Roberts)
+- Keep a journal (learn from Dread Pirate Roberts)
 
-   ## some_questions_to_ask_yourself_before_sharing_info:
+### some_questions_to_ask_yourself_before_sharing_info:
 - Is this information crucial to my organizing with others?
 - What risks can arise if I divulge this information?
 - Am I potentially putting someone in harm's way if I share this info?
 - Does my sharing this information advance my cause in anyway, and if so, is it worth the risk?
 
 
-  ## you_can_say_no:
+### you_can_say_no:
 Don't answer questions you don't legally have to. 
     Cops, friends, co-workers, doesn't matter. 
     
@@ -109,7 +107,7 @@ If you are not comfortable with sharing information for safety reasons it is OK 
     
 Feel free to call-in and correct any comrade who appears to be oversharing.
 
-  ## don't_snitch:
+  ### don't_snitch:
   If you are caught by law enforcement, say nothing to them beyond what's legally required:
 
 - "Am I Being Detained?"
@@ -355,7 +353,7 @@ _you can even thrift a pair of shoes from a thrift store if you are extra parano
 - Eat a good meal day of. Chances are there might not be a good chance to eat and, depending on the action
     - Purchasing food near the action is not the best idea #see the section on Breadcrumbs
 
-## **transportation?: (arriving/leaving)**
+## **transportation: (arriving/leaving)**
 **Know the territory.**
     
 - Once you have a location, get a feel for what the area is like, you can use Google maps for this, street view is especially handy.
