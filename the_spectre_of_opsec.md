@@ -222,6 +222,7 @@ https://ssd.eff.org/en/module/how-encrypt-your-iphone
       (depending on your OS you may just be able to disable the access to location/microphone in the settings such as in iOS https://www.howtogeek.com/211623/how-to-manage-app-permissions-on-your-iphone-or-ipad/
 
     - Assuming you have your phone on your person, document with photo/video if you see law enforcement being violent.
+
 **If you need to contact someone while out: USE. ENCRYPTED. COMMS.**
 
 **Do not use SMS or a Standard phone call.**
