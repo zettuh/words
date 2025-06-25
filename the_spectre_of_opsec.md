@@ -1,55 +1,75 @@
 title: The Spectre of OPSEC
 scope: applicable to any person/persons that intend to enter a public space to voice discontent, or for individuals planning direct actions, this document is purely for educational purposes and does not advocate for any specific action that may be deemed 'illegal' by local/state/federal laws 
+
 purpose: educate the masses
+
 structure: this document will be broken into numerous sections, and each section might very well have subsections #jump around to whatever is relevant to you
-version: 0.8 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
+
+version: 0.8
+(this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
 
 
-sections:
-    - Security Culture
-    - Comms
-    - Logistics/Planning
-    - Breadcrumbs
-    - General Safety
+**sections**:
+  - Security Culture
+  - Comms
+  - Logistics/Planning
+  - Breadcrumbs
+  - General Safety
 
-security_culture:
+##**security_culture**:
+
   Intro:
-    If you are reading this, there is a chance that you've decided that it is time to stop being idle and get out onto the streets and tell the government how you really feel.
-    Fantastic! That said, it is crucial that we take steps to keep our identities hidden when going out to voice discontent, as there are actors that would seek to discover our identities and keep tabs on who we are.
-    So, what we need to establish is a good Security Culture.  This is important as the goal is to minimize risk to yourself and others.
-    Threat actors in this case include but are not limited to: members of law enforcement, white nationalist gangs, Republicans. These people are not your friends (though they are often friends with each other!), and they do not care about you or your well-being.
-    Local/State/Federal authorities have long had a vested interest in seeking out and silencing radicals so radicals ought to be informed on how to avoid giving them anything that can be used to harm others.
+    If you are reading this, there is a chance that you've decided that it is time to stop being idle and get out onto the streets and tell the government how you really feel.Fantastic! That said, it is crucial that we take steps to keep our identities hidden when going out to voice discontent, as there are actors that would seek to discover our identities and keep tabs on who we are.
+    
+    So, what we need to establish is a good Security Culture.  
+    This is important as the goal is to minimize risk to yourself and others.
 
-  what_is_it?:
-    The central principle of all information security culture, is compartmentalization, aka need-to-know. "Three people can keep a secret if two of them are dead."
+    Threat actors in this case include but are not limited to: 
+      - members of law enforcement 
+      - white nationalist gangs
+      - Republicans. 
+    These people are not your friends (though they are often friends with each other!), and they do not care about you or your well-being.
 
-  what_does_this_mean?:
-      The more people who know something, the greater the chance it falls into the wrong hands. "Loose lips sink ships."
-      All Information must be kept on a need-to-know basis.
-      In cases where the public is encouraged to join in to add strength in numbers (such as a public rally), some information would have to be shared.  What is crucial here is identifying information is OK to share, and information that must remain secret.
-      It helps protect those involved by allowing one to maintain plausible deniability should an action or event be deemed punishable by law.
-      Examples include, but aren't limited to:
-        - personally identifiable information (PII).  e.g.:
-          - SSN
-          - physical traits
-          - registered call signs
-          - Real names
-          - Social graph (who's relates to who)
-        - physical location addresses that are frequented by your comrades:
-          - domicile
-          - places of worship
-          - favorite restaurants
-          - non-public meeting locations
+    Local/State/Federal authorities have long had a vested interest in seeking out and silencing radicals. 
+    This means that radicals ought to be informed on how to avoid giving them anything that can be used to harm others.
+
+  ##**what_is_it?**:
+
+    The central principle of all information security culture, is compartmentalization, aka need-to-know. 
+    "Three people can keep a secret if two of them are dead."
+
+  ##**what_does_this_mean?**:
   
-  what_to_do?:
+    The more people who know something, the greater the chance it falls into the wrong hands. "Loose lips sink ships."
+    All Information must be kept on a need-to-know basis.
+    In cases where the public is encouraged to join in to add strength in numbers (such as a public rally), some information would have to be shared.
+    
+    What is crucial here is identifying information is OK to share, and information that must remain secret.
+    The goal is to help protect those involved by allowing one to maintain plausible deniability should an action or event be deemed punishable by law.
+    *Examples include, but aren't limited to*:
+      - personally identifiable information (PII).  e.g.:
+        - SSN
+        - physical traits
+        - registered call signs
+        - Real names
+        - Social graph (who's relates to who)
+      - physical location addresses that are frequented by your comrades:
+        - domicile
+        - places of worship
+        - favorite restaurants
+        - non-public meeting locations
+  
+  ##**what_to_do?**:
+
     - Only ask for information you need to accomplish an objective.
      - If you've done something that your state or the feds deem illegal, do not boast about it, keep it to yourself.
        This include things others have done. It would also be wise to not mention things that are going to happen or might happen if they are considered to be 'illegal'
     - Stay on top of what you are sharing and to whom, though be careful not to leave a written record.
 
-  what_NOT_to_do?:
-    - Identify yourself in advance
-      - Don't log in to any web site that still works without a user account
+  ##**what_NOT_to_do?**:
+
+    #### Identify yourself in advance:
+      Don't log in to any web site that still works without a user account
          - Google Maps
          - Duck Duck Go search
          - news websites
