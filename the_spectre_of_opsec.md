@@ -192,7 +192,7 @@ If you need to communicate with your comrades outside line of sight, there are o
 - your social graph will be included in geo-fence warrants.
 - your phone being there will cause others law enforcement can show are connected to you to be targeted for further surveillance.
 
-If you absolutely cannot leave your phone at home (family care needs, work related interruptions) and for some reason still want to take action,
+If you absolutely cannot leave your phone at home (family care needs, work related interruptions) and for some reason still want to take it to an action,
        there are steps you can take, outlined below.  But know that you are putting yourself and your comrades at greater risk!
 
 ### **things_to_do:**
