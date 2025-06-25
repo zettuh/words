@@ -411,9 +411,9 @@ There is an impulse (a good one, to be clear) to acquire and use a burner phone 
   - Ideally you would activate away from home and places you frequent
     - adding to that, once it is activated, **DO NOT TAKE IT HOME WHILE IT IS POWERED ON** turn it off well before arriving to your home and leave it off while there to the extent that you are able to do so.
     - seriously avoid using it in/near/around/in close proximity to where you live
-  - **DO NOT SIGN INTO ANY PERSONAL ACCOUNTS FROM YOUR BURNER PHONE**
-    - This goes for social media, chat applications, emails, etc etc etc 
-    - The entire point of a burner is to have a **disposable** means of communication that is **not** tied to you or your information, as soon as you sign into a personal account on a major social media / email service the burner phone will then be linked to your identity thus rendering the purpose of the burner device useless
+- **DO NOT SIGN INTO ANY PERSONAL ACCOUNTS FROM YOUR BURNER PHONE**
+  - This goes for social media, chat applications, emails, etc etc etc 
+  - The entire point of a burner is to have a **disposable** means of communication that is **not** tied to you or your information, as soon as you sign into a personal account on a major social media / email service the burner phone will then be linked to your identity thus rendering the purpose of the burner device useless
 
 
 ## **general_safety**:
