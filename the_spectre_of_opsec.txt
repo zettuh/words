@@ -2,7 +2,7 @@ title: The Spectre of OPSEC
 scope: applicable to any person/persons that intend to enter a public space to voice discontent, or for individuals planning direct actions, this document is purely for educational purposes and does not advocate for any specific action that may be deemed 'illegal' by local/state/federal laws 
 purpose: educate the masses
 structure: this document will be broken into numerous sections, and each section might very well have subsections #jump around to whatever is relevant to you
-version: 0.6 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
+version: 0.7 (this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.) 
 
 
 sections:
@@ -40,6 +40,7 @@ security_culture:
           - places of worship
           - favorite restaurants
           - non-public meeting locations
+  
   what_to_do?:
     - Only ask for information you need to accomplish an objective.
      - If you've done something that your state or the feds deem illegal, do not boast about it, keep it to yourself.
@@ -165,7 +166,8 @@ comms / social media:
 
     - Disable location tagging on your phone's camera
 
-    - learn how to enable lock-down mode on your phone (fixme: put links here)
+    - learn how to enable lock-down mode on your phone
+       iOS Lockdown Mode: https://support.apple.com/en-us/105120
 
     - turn off *all* notifications on your lock screen.
 
