@@ -232,7 +232,7 @@ logistics/planning: #prepping/arriving/leaving
       Change it for every action.  Those who already know you won't care, and those who don't aren't in need of any persistent identifier.
       Your real name is something that can expose you to risk, so, avoid exposing it to others.  Even just your first name.
 
-+  **things_to_leave_at_home**:
+  **things_to_leave_at_home**:
     - Illegal substances.
       Pretty self explanatory, if you can get arrested for having it on your person, leave it at home.
       Opened containers of liquor fall into this category.
