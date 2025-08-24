@@ -7,7 +7,7 @@
 **structure**: this document will be broken into numerous sections, and each section might very well have subsections #jump around to whatever is relevant to you
 
 **version**: 1.0
-*(this document will be revised based on the best information available, email ghuls@protonmail.com or on keybase @krlsmarxley to suggest revisions.)*
+*(this document will be revised based on the best information available)*
 
 
 **sections**:
