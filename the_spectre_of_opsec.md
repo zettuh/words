@@ -50,7 +50,7 @@
   All Information must be kept on a need-to-know basis.
   In cases where the public is encouraged to join in to add strength in numbers (such as a public rally), some information would have to be shared.
     
-  What is crucial here is identifying information is OK to share, and information that must remain secret.
+  What is crucial here is identifying information that is OK to share, and information that must remain secret.
   
   The goal is to help protect those involved by allowing one to maintain plausible deniability should an action or event be deemed punishable by law.
 
